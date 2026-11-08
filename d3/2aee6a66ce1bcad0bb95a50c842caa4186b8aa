@@ -1,0 +1,20 @@
+heybrochecklog/__init__.py
+  h_b23a6a8439c0dd 15-16,107-109,115
+  h_029e9fd0160863 14,17,110-114,116-119
+heybrochecklog/__main__.py
+  h_b23a6a8439c0dd 1,4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d32aee6a66ce1bcad0bb95a50c842caa4186b8aa",
+  "prompts": {},
+  "humans": {
+    "h_029e9fd0160863": {
+      "author": "Binary <git@binary.cx>"
+    },
+    "h_b23a6a8439c0dd": {
+      "author": "unknown"
+    }
+  }
+}
