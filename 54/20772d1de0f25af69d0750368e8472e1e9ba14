@@ -1,0 +1,18 @@
+tests/eac95_test.py
+  h_b23a6a8439c0dd 85
+tests/xld_test.py
+  h_b23a6a8439c0dd 60
+tests/eac_test.py
+  h_b23a6a8439c0dd 174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5420772d1de0f25af69d0750368e8472e1e9ba14",
+  "prompts": {},
+  "humans": {
+    "h_b23a6a8439c0dd": {
+      "author": "unknown"
+    }
+  }
+}
