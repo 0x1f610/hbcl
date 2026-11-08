@@ -1,0 +1,14 @@
+README.md
+  h_029e9fd0160863 22-27
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cef307d0279922652c73891f032c548e0471dac8",
+  "prompts": {},
+  "humans": {
+    "h_029e9fd0160863": {
+      "author": "Binary <git@binary.cx>"
+    }
+  }
+}
