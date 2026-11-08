@@ -1,0 +1,17 @@
+.gitignore
+  h_029e9fd0160863 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7ddd810b7de2dc81d300fdf251f4356e5acbd6be",
+  "prompts": {},
+  "humans": {
+    "h_029e9fd0160863": {
+      "author": "Binary <git@binary.cx>"
+    },
+    "h_b23a6a8439c0dd": {
+      "author": "unknown"
+    }
+  }
+}
