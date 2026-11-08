@@ -1,0 +1,15 @@
+heybrochecklog/shared.py
+  h_029e9fd0160863 15-21,48
+  h_029e9fd0160863 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "94b0681092bd294147fca59d374bac7fd1cfbdb9",
+  "prompts": {},
+  "humans": {
+    "h_029e9fd0160863": {
+      "author": "Binary <git@binary.cx>"
+    }
+  }
+}
