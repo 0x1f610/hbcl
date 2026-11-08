@@ -1,0 +1,21 @@
+.github/workflows/main.yml
+  h_b23a6a8439c0dd 14,17,19-20,22-23,25-26
+  h_029e9fd0160863 10,15-16,24
+.github/workflows/github_artifact.yml
+  h_b23a6a8439c0dd 16,18-19
+  h_029e9fd0160863 13-15,17,20-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2090b8e0565b38b6de0aa98a78af739d8d65b5ec",
+  "prompts": {},
+  "humans": {
+    "h_029e9fd0160863": {
+      "author": "Binary <git@binary.cx>"
+    },
+    "h_b23a6a8439c0dd": {
+      "author": "unknown"
+    }
+  }
+}
